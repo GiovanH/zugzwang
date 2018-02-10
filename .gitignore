@@ -1,3 +1,6 @@
+# Eclipse temporary files
+.metadata
+
 # Prerequisites
 *.d
 
